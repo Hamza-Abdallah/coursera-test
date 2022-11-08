@@ -2,12 +2,15 @@
 	box-sizing: border-box;
 }
 h1{
-	font-family: cosmic san-serif;
+  font-family: cursive;
+  font-size: 300%;
 	text-align: center;
 	margin-bottom: 60px;
 }
 section{
-	border: 2px solid black;
+  font-family: cursive;
+  font-size: 100%;
+  border: 2px solid black;
 	margin-bottom: 10px;
 	background-color: #a8afba;
 	position: relative;
@@ -21,9 +24,9 @@ section{
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: cosmic san-serif;
-	font-weight: bold;
-	font-size: 125%;
+  font-family: cursive;
+  font-weight: bold;
+	font-size: 150%;
 	padding: 5px;
 }
 #chicken {
@@ -37,8 +40,8 @@ section{
 	background-color: #e0cc84;
 }
 p{
-	font-family: cosmic san-serif;
-	font-size: 115%;
+  font-family: cursive;
+  font-size: 120%;
 	padding: 10px;
 }
 .row{
