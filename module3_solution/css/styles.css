@@ -1,9 +1,13 @@
 * {
     box-sizing: border-box;
+    font-family: cursive;
 }
 
 #nav-list > li {
     text-align: center;
+    font-family: cursive;
+	font-size: 150%;
+
 }
 
 div section {
@@ -12,14 +16,29 @@ div section {
 }
 #section-1{
     background-color: #B3E5FF;
+	float:right;
+	text-align: center;
+  font-family: cursive;
+	font-size: 150%;
+	padding: 5px;
 }
 
 #section-2 {
     background-color: #FFC7B3;
+    float:right;
+	text-align: center;
+  font-family: cursive;
+	font-size: 150%;
+	padding: 5px;
 }
 
 #section-3 {
     background-color: #C3FF80;
+    float:right;
+	text-align: center;
+  font-family: cursive;
+	font-size: 150%;
+	padding: 5px;
 }
 
 #text > h3 {
@@ -29,4 +48,19 @@ div section {
 #header-nav .navbar-brand {
     position: absolute;
     left: 10px;
+    font-family: cursive;
+	font-size: 180%;
+    font-weight: bold;
+}
+
+#page-heading {
+    margin-bottom: 15px;
+    font-family: cursive;
+	font-size: 250%;
+    font-weight: bold;
+}
+
+#section-1 > h3, #section-2 > h3, #section-3 > h3{
+    font-size: 120%;
+    font-weight: bold;
 }
